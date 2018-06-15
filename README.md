@@ -2,9 +2,9 @@
 ### React-Js, webpack, material-ui, react-router, mongoDB.
 
 ## Usage
-`npm install` \n
-`npm build` \n
-`npm start` \n
+`npm install` <br>
+`npm build` <br>
+`npm start` <br>
 
 ## features
 1. Everyone with a registered account can write a post.
